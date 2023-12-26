@@ -5,7 +5,5 @@
   </a>
 </p>
 <p>
-  <a href="#">
-    Libreria de bot de whatsapp 100% en javascript conectado a travez de [`BAILEYS`](https://github.com/WhiskeySockets/Baileys/)
-  </a>
+  Libreria de bot de whatsapp 100% en javascript conectado a travez de <a href="https://github.com/WhiskeySockets/Baileys/">@WhiskeySockets/Baileys</a>
 </p>
